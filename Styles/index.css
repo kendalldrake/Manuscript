@@ -4,23 +4,24 @@ body {font-family: 'playfair display', sans-serif;}
 h1 {
 font-size: 96px;
 text-align: left;
-line-height:105%
+line-height:105%;
+color: #BF8B78;
 }
-p{
-    line-height: 1.4;
+p{line-height: 1.4;
+  font-size: 16px;
+  margin-top: 24px;
 }
-p{
-    font-size: 16
-    px;
-}
+
 h2 {
     font-size: 36px;
+    color: #8C5F4F;
 }
-p{
-    margin-top: 24px;
-}
-body{padding-left: 96px;}
-body{padding-right: 681px;}
-body{text-align:justify;}
+
 body{padding-top: 70px;
-padding-bottom: 70px;}
+padding-bottom: 70px;
+text-align:justify;
+padding-right: 681px;
+padding-left: 96px;
+margin: auto;
+}
+
