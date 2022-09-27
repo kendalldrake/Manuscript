@@ -1,3 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Libre+Baskerville:ital@0;1&family=Pacifico&family=Playfair+Display:wght@400;500&display=swap');
-body {font-family: playfair display, sans-serif;}
+body {font-family: 'playfair display', sans-serif;}
 
+h1 {
+font-size: 96px;
+text-align: left;
+line-height:105%
+}
+p{
+    line-height: 1.4;
+}
+p{
+    font-size: 16
+    px;
+}
+h2 {
+    font-size: 36px;
+}
+p{
+    margin-top: 24px;
+}
+body{padding-left: 96px;}
+body{padding-right: 681px;}
+body{text-align:justify;}
+body{padding-top: 70px;
+padding-bottom: 70px;}
