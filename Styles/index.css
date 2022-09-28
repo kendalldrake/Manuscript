@@ -6,22 +6,24 @@ font-size: 96px;
 text-align: left;
 line-height:105%;
 color: #BF8B78;
+padding-top:70px;
 }
 p{line-height: 1.4;
   font-size: 16px;
   margin-top: 24px;
+  margin-bottom: 24px;
 }
 
 h2 {
     font-size: 36px;
     color: #8C5F4F;
+    text-align: start;
 }
 
-body{padding-top: 70px;
+body{
 padding-bottom: 70px;
 text-align:justify;
 padding-right: 681px;
 padding-left: 96px;
 margin: auto;
 }
-
